@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNmxkLhD0zgn29yIXLQGVwBWIhpJF0c46yTZtm81yL8Ef/vgfZJuAhvOPLvtHM/yb3G65NiVWjNhzqWlHN+g1A==",
+  "success": true,
+  "projectFilePath": "D:\\STUDY MATERIAL\\.NET Development\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhruv\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
